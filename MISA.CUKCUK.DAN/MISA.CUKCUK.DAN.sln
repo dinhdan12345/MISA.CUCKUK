@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MISA.CUKCUK.DAN", "MISA.CUKCUK.DAN\MISA.CUKCUK.DAN.csproj", "{D16FE009-4B8D-41A2-85D3-2E4A1E5832E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.DL", "MISA.DL\MISA.DL.csproj", "{90423705-3701-48CE-A3B3-DD508A7A6CFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.BL", "MISA.BL\MISA.BL.csproj", "{8969AEBB-0782-484B-9081-8F372B4F6841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.Entities", "MISA.Entities\MISA.Entities.csproj", "{2E999EA4-9705-4251-B816-B6C6F6A216A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.Common", "MISA.Common\MISA.Common.csproj", "{FFCED76A-4EC2-44CC-ADCB-FCA264E93FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D16FE009-4B8D-41A2-85D3-2E4A1E5832E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16FE009-4B8D-41A2-85D3-2E4A1E5832E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16FE009-4B8D-41A2-85D3-2E4A1E5832E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16FE009-4B8D-41A2-85D3-2E4A1E5832E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90423705-3701-48CE-A3B3-DD508A7A6CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90423705-3701-48CE-A3B3-DD508A7A6CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90423705-3701-48CE-A3B3-DD508A7A6CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90423705-3701-48CE-A3B3-DD508A7A6CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8969AEBB-0782-484B-9081-8F372B4F6841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8969AEBB-0782-484B-9081-8F372B4F6841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8969AEBB-0782-484B-9081-8F372B4F6841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8969AEBB-0782-484B-9081-8F372B4F6841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E999EA4-9705-4251-B816-B6C6F6A216A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E999EA4-9705-4251-B816-B6C6F6A216A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E999EA4-9705-4251-B816-B6C6F6A216A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E999EA4-9705-4251-B816-B6C6F6A216A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCED76A-4EC2-44CC-ADCB-FCA264E93FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCED76A-4EC2-44CC-ADCB-FCA264E93FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCED76A-4EC2-44CC-ADCB-FCA264E93FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCED76A-4EC2-44CC-ADCB-FCA264E93FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFFE3BF8-C5A2-4CFC-A7B7-A8EC86AEAF49}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs2015:8080/tfs/freshercollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MISA.CUKCUK.DAN\\MISA.CUKCUK.DAN.csproj
+		SccProjectName1 = MISA.CUKCUK.DAN
+		SccLocalPath1 = MISA.CUKCUK.DAN
+		SccProjectUniqueName2 = MISA.DL\\MISA.DL.csproj
+		SccProjectName2 = MISA.DL
+		SccLocalPath2 = MISA.DL
+		SccProjectUniqueName3 = MISA.BL\\MISA.BL.csproj
+		SccProjectName3 = MISA.BL
+		SccLocalPath3 = MISA.BL
+		SccProjectUniqueName4 = MISA.Entities\\MISA.Entities.csproj
+		SccProjectName4 = MISA.Entities
+		SccLocalPath4 = MISA.Entities
+		SccProjectUniqueName5 = MISA.Common\\MISA.Common.csproj
+		SccProjectName5 = MISA.Common
+		SccLocalPath5 = MISA.Common
+	EndGlobalSection
+EndGlobal

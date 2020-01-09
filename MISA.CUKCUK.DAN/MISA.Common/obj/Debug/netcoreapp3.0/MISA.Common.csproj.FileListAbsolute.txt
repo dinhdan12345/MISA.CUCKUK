@@ -1,0 +1,10 @@
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.Common\bin\Debug\netcoreapp3.0\MISA.Common.deps.json
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.Common\bin\Debug\netcoreapp3.0\MISA.Common.dll
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.Common\bin\Debug\netcoreapp3.0\MISA.Common.pdb
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.Common\obj\Debug\netcoreapp3.0\MISA.Common.csprojAssemblyReference.cache
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.Common\obj\Debug\netcoreapp3.0\MISA.Common.AssemblyInfoInputs.cache
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.Common\obj\Debug\netcoreapp3.0\MISA.Common.AssemblyInfo.cs
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.Common\obj\Debug\netcoreapp3.0\MISA.Common.dll
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.Common\obj\Debug\netcoreapp3.0\MISA.Common.pdb
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.Common\obj\Debug\netcoreapp3.0\MISA.Common.Properties.Resources.resources
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.Common\obj\Debug\netcoreapp3.0\MISA.Common.csproj.GenerateResource.cache

@@ -1,0 +1,136 @@
+﻿/*TOOLBAR TOP*/
+.content .content-grid .toolbar-top {
+    
+    display: flex;
+    background-color: #ededed;
+    background-image: -webkit-linear-gradient(top, #f9f9f9, #e3e4e6);
+    height: 28px;
+    overflow:hidden;
+    
+    
+}
+
+    .content .content-grid .toolbar-top .text-implement {
+        padding:0 4px !important;
+        white-space:nowrap;
+        display: flex;
+        background: transparent;
+        border: 1px solid transparent;
+    }
+        /*Không có thuộc tính disabled mới hover được*/
+        .content .content-grid .toolbar-top .text-implement:not([disabled]):hover {
+            background-color: #fff;
+            border: 1px solid #0071c1;
+            cursor: pointer;
+        }
+
+        .content .content-grid .toolbar-top .text-implement[disabled]{
+            opacity: 0.5;
+        }
+
+        .content .content-grid .toolbar-top .text-implement .icon-toolbar-top {
+            width: 16px;
+            height: 16px;
+            margin-top: 3px;
+        }
+
+        .content .content-grid .toolbar-top .text-implement .icon-insert {
+            background: url('/Contents/images/IconSprite.png') no-repeat -1px -2648px;
+        }
+
+        .content .content-grid .toolbar-top .text-implement .icon-duplicate {
+            background: url('/Contents/images/IconSprite.png') no-repeat -1px -1888px;
+        }
+
+        .content .content-grid .toolbar-top .text-implement .icon-edit {
+            background: url('/Contents/images/IconSprite.png') no-repeat 0 -1872px;
+        }
+
+        .content .content-grid .toolbar-top .text-implement .icon-delete {
+            background: url('/Contents/images/IconSprite.png') no-repeat -3px -2000px;
+        }
+
+        .content .content-grid .toolbar-top .text-implement .icon-load {
+            background: url('/Contents/images/IconSprite.png') no-repeat 0 -2586px;
+        }
+
+        .content .content-grid .toolbar-top .text-implement .icon-import {
+            background: url('/Contents/images/IconSprite.png') no-repeat 1px -1552px;
+        }
+
+        .content .content-grid .toolbar-top .text-implement .icon-export {
+            background: url('/Contents/images/IconSprite.png') no-repeat 0 -1824px;
+        }
+
+        .content .content-grid .toolbar-top .text-implement .icon-combine {
+            background: url('/Contents/images/ic_GopKhachHang.png') no-repeat;
+        }
+
+        .content .content-grid .toolbar-top .text-implement .icon-help {
+            background: url('/Contents/images/IconSprite.png') no-repeat 0 -1600px;
+        }
+
+.text-content {
+    margin-left: 5px;
+    /*white-space:nowrap;*/
+}
+
+/*Toolbar pageging*/
+.toolbar-paging {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    border: 1px solid #dfe6e9;
+    height: 28px;
+    display: flex;
+    /*overflow-x: auto;
+    min-width: 623px;*/
+}
+
+    .toolbar-paging .icon-page {
+        width: 24px;
+        height: 34px;
+        background-position: center;
+        background-repeat: no-repeat;
+        cursor: pointer;
+        margin-right: 20px;
+    }
+
+    .toolbar-paging .first-page {
+        background-image: url("/Contents/images/grid/page-first.png");
+    }
+
+    .toolbar-paging .prev-page {
+        background-image: url("/Contents/images/grid/page-prev.png");
+    }
+
+    .toolbar-paging .next-page {
+        background-image: url("/Contents/images/grid/page-next.png");
+    }
+
+    .toolbar-paging .last-page {
+        background-image: url("/Contents/images/grid/page-last.png");
+    }
+
+    .toolbar-paging .number-page {
+        display: flex;
+        margin-top: 5px;
+        margin-right: 10px;
+    }
+
+        .toolbar-paging .number-page .children-number-page {
+            margin-right: 9px;
+        }
+
+    .toolbar-paging .refresh-page {
+        background: url('/Contents/images/grid/refresh.png') no-repeat;
+        margin-top: 10px;
+    }
+
+    .toolbar-paging .text-toolbar-paging {
+        position: absolute;
+        right: 0;
+        top: 0;
+        bottom: 0;
+    }

@@ -1,0 +1,177 @@
+﻿/*GRID*/
+.content .content-grid .grid {
+    position: absolute;
+    top: 28px;
+    left: 0;
+    right: 0;
+    bottom: 28px;
+    overflow-x: scroll;
+    /*overflow-y: scroll;*/
+    width: 100%;
+}
+
+    .content .content-grid .grid .table-main {
+        width: 100%;
+        height: auto;
+    }
+
+    .content .content-grid .grid .btn-input {
+        display: flex;
+        margin-left: 1px;
+    }
+
+.col-title {
+    text-align: center;
+    font-weight: normal;
+    white-space: nowrap;
+    padding-top:8px;
+}
+
+table tr th {
+    margin-right: 5px;
+}
+/*Sửa giao diện chuẩn convention*/
+#tblCustomer thead th {
+    height: 56px;
+}
+
+    #tblCustomer thead th .btn-input {
+        height: 24px;
+    }
+
+        #tblCustomer thead th .btn-input .btn-filter button, #tblCustomer thead th .btn-input .input-filter {
+            height: 100% !important;
+            padding-left: 3px;
+            font: initial !important;
+            outline: none;
+            border: 1px solid #ccc;
+            background-color:#fff;
+        }
+        #tblCustomer thead th .btn-input .input-filter
+        {
+            border-left:none !important;
+        }
+/*Set height từng cột table*/ 
+.grid .table-main td {
+    height: 25px;
+}
+
+.grid .table-main tbody tr:hover {
+    background-color: #9bc7e366;
+    cursor: pointer;
+}
+
+.content .content-grid .grid .check {
+    width: 20px;
+    height: 15px;
+}
+
+.grid .text-ellipsis {
+    /*Tạo dấu 3 chấm*/
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 5px;
+}
+
+/*.grid .grid-row:hover {
+    background-color: #9bc7e366 !important;
+}*/
+
+
+
+
+.content-grid .grid .table-main tbody tr .type-text {
+    text-align: left;
+    position: relative;
+}
+
+.content-grid .grid .table-main tbody tr .type-money {
+    text-align: right;
+    white-space: nowrap;
+}
+
+.content-grid .grid .table-main tbody tr .type-date {
+    text-align: center;
+    white-space: nowrap;
+}
+
+.content-grid .grid .table-main tbody tr td {
+    padding-left: 8px;
+}
+
+/*Set width table*/
+.content-grid .grid .table-main tr td:nth-child(1) {
+    width: 7%;
+}
+
+.content-grid .grid .table-main tr td:nth-child(2) {
+    width: 9%;
+}
+
+.content-grid .grid .table-main tr td:nth-child(3) {
+    width: 6%;
+}
+
+.content-grid .grid .table-main tr td:nth-child(4) {
+    width: 9%;
+}
+
+.content-grid .grid .table-main tr td:nth-child(5) {
+    width: 5%;
+}
+
+.content-grid .grid .table-main tr td:nth-child(6) {
+    width: 10%;
+}
+
+.content-grid .grid .table-main tr td:nth-child(7) {
+    width: 8%;
+}
+
+.content-grid .grid .table-main tr td:nth-child(8) {
+    width: 9%;
+}
+
+.content-grid .grid .table-main tr td:nth-child(9) {
+    width: 6%;
+}
+
+.content-grid .grid .table-main tr td:nth-child(10) {
+    width: 5.3%;
+}
+
+.content-grid .grid .table-main tr td:nth-child(11) {
+    text-align: center;
+    width: 8.3%;
+}
+
+.content-grid .grid .table-main tr td:nth-child(12) {
+    text-align: center;
+    width: 8.3%;
+}
+
+.grid #tblCustomer tbody .background-tr {
+    background-color: #cfc3c3;
+}
+.btn-filter button{
+    width:24px;
+}
+/*Resize TAble*/
+#tblCustomer .resize-bar {
+    cursor: col-resize;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    display: block;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 0.5em;
+}
+
+#tblCustomer th, #tblCustomer td {
+    position: relative;
+}

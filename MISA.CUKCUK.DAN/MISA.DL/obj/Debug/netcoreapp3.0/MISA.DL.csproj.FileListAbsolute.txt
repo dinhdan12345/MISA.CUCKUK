@@ -1,0 +1,13 @@
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.DL\bin\Debug\netcoreapp3.0\MISA.DL.deps.json
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.DL\bin\Debug\netcoreapp3.0\MISA.DL.dll
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.DL\obj\Debug\netcoreapp3.0\MISA.DL.csprojAssemblyReference.cache
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.DL\obj\Debug\netcoreapp3.0\MISA.DL.AssemblyInfoInputs.cache
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.DL\obj\Debug\netcoreapp3.0\MISA.DL.AssemblyInfo.cs
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.DL\bin\Debug\netcoreapp3.0\MISA.DL.pdb
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.DL\bin\Debug\netcoreapp3.0\MISA.Common.dll
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.DL\bin\Debug\netcoreapp3.0\MISA.Entities.dll
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.DL\bin\Debug\netcoreapp3.0\MISA.Common.pdb
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.DL\bin\Debug\netcoreapp3.0\MISA.Entities.pdb
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.DL\obj\Debug\netcoreapp3.0\MISA.DL.csproj.CopyComplete
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.DL\obj\Debug\netcoreapp3.0\MISA.DL.dll
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.DL\obj\Debug\netcoreapp3.0\MISA.DL.pdb

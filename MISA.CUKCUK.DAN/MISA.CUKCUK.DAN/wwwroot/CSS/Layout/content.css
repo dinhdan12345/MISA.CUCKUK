@@ -1,0 +1,22 @@
+﻿/*content top*/
+.content .content-top {
+    padding-left: 8px;
+}
+
+    .content .content-top .ct-breadcrumb {
+        position: relative;
+        width: 100%;
+        height: 50px;
+        justify-items: center;
+        display: flex;
+    }
+
+/*CONTENT GRID*/
+.content .content-grid {
+    position: absolute;
+    top: 50px;
+    left: 8px;
+    right: 8px;
+    bottom: 0;
+}
+

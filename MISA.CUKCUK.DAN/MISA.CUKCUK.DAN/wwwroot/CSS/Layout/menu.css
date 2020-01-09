@@ -1,0 +1,173 @@
+﻿
+/* MENU */
+.menu {
+    position: absolute;
+    top: 55px;
+    width: 230px;
+    left: 0;
+    bottom: 0;
+    background-color: #0973b9;
+    border-top: 1px solid #038ac1;
+    height: calc(100% - 55px);
+    overflow-y: auto;
+}
+
+    .menu .children-menu {
+        height: 42px;
+        border-top: 1px solid #038ac1;
+        border-bottom: 1px solid #016087;
+        display: flex;
+    }
+
+        .menu .children-menu .children-menu-item {
+            width: 24px;
+            height: 24px;
+            background-image: url("/Contents/images/iconMenu.png");
+            margin: 5px;
+        }
+
+        .menu .children-menu .item-icon-index {
+            background-position: -5px -5px;
+            margin-left: 13px;
+            margin-top: 12px;
+            margin-right: 0;
+        }
+
+        .menu .children-menu .item-icon-report {
+            background-position: 0px -194px;
+            margin-left: 11px;
+        }
+
+        .menu .children-menu .item-icon-purchase {
+            background-position: -1px -377px;
+            margin-left: 11px;
+        }
+
+        .menu .children-menu .item-icon-stock { /*kho*/
+            background-position: -4px -40px;
+            margin-left: 11px;
+        }
+
+        .menu .children-menu .item-icon-cashfund { /*quỹ tiền mặt*/
+            background-position: -7px -81px;
+            margin-left: 13px;
+        }
+
+        .menu .children-menu .item-icon-depositfund { /*quỹ tiền gửi*/
+            background-position: -1px -377px;
+            margin-left: 10px;
+            margin-right: 7px;
+        }
+
+        .menu .children-menu .item-icon-cost { /*chi phí*/
+            background-position: -1px -377px;
+            margin-left: 10px;
+            margin-right: 7px;
+        }
+
+        .menu .children-menu .item-icon-sale { /*khuyến mãi*/
+            background-position: 0 416px;
+            margin-left: 8px;
+            margin-right: 10px;
+        }
+
+        .menu .children-menu .item-icon-menufood { /*thực đơn*/
+            background-position: 0 1px;
+            background-image: url('/Contents/images/vector-smart-object.png') !important;
+            background-repeat: no-repeat;
+            margin-left: 11px
+        }
+
+        .menu .children-menu .item-icon-category { /*danh mục*/
+            background-position: 0 380px;
+            margin-left: 10px;
+        }
+
+        .menu .children-menu .item-icon-cancel { /*hủy*/
+            background-position: 0 1px;
+            background-image: url('/Contents/images/cancel-invoice.png') !important;
+            background-repeat: no-repeat;
+            margin-left: 11px
+        }
+
+        .menu .children-menu .item-icon-smsmarketing {
+            background-position: 4px 1px;
+            background-image: url('/Contents/images/SMS_Menu.svg') !important;
+            background-repeat: no-repeat;
+            margin-left: 11px;
+        }
+
+        .menu .children-menu .item-icon-deliver-partner { /*đói tác giao hàng*/
+            background-position: 0 1px;
+            background-image: url('/Contents/images/ahamove/icon/ic_GH.svg') !important;
+            background-repeat: no-repeat;
+            margin-left: 11px;
+        }
+
+        .menu .children-menu .item-icon-electronic-bill { /*hóa đơn điện tử*/
+            background-image: url('/Contents/images/ic_hoadon.png') !important;
+            background-repeat: no-repeat;
+            margin-left: 11px;
+            background-size: contain;
+            background-position: 0 center;
+        }
+
+        .menu .children-menu .item-icon-system { /*hệ thống*/
+            background-position: 0 301px; margin-left: 10px;
+        }
+
+        .menu .children-menu .item-icon-help { /*trợ giúp*/
+            background-image: url('/Contents/images/iconHelp.png') !important;
+            background-repeat: no-repeat;
+            margin-left: 11px;
+            margin-top: 9px;
+        }
+
+        .menu .children-menu .item-icon-subcription { /*thuê bao*/
+            width: 24px;
+            height: 20px;
+            background-image: url('/Contents/images/icon-subscriber.png') !important;
+            background-repeat: no-repeat;
+        }
+
+        .menu .children-menu .item-icon-5food { /*5FOOD*/
+            background-image: url('/Contents/images/5food.png') !important;
+            background-repeat: no-repeat;
+            margin-left: 8px;
+            margin-right: 8px;
+        }
+
+        .menu .children-menu .children-menu-content {
+            color: white;
+            font-size: 13.5px;
+            font-weight: 600;
+            line-height: 42px;
+        }
+
+        .menu .children-menu:hover {
+            background: #eb7728;
+            cursor: pointer;
+        }
+/*Tùy chỉnh scrollbar*/
+/*Phần menu*/
+menu::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 2px;
+    background-color: #ccc;
+    opacity: .5;
+}
+
+.menu::-webkit-scrollbar {
+    width: 4px;
+    background-color: #212020;
+    margin-top: 100px;
+    opacity: .5;
+}
+
+.menu::-webkit-scrollbar-thumb {
+    border-radius: 3px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #555;
+    opacity: .5;
+}
+

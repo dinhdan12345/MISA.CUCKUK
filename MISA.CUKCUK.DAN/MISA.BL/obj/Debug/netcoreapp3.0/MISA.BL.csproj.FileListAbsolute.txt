@@ -1,0 +1,15 @@
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\bin\Debug\netcoreapp3.0\MISA.BL.deps.json
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\bin\Debug\netcoreapp3.0\MISA.BL.dll
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\bin\Debug\netcoreapp3.0\MISA.BL.pdb
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\bin\Debug\netcoreapp3.0\MISA.Common.dll
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\bin\Debug\netcoreapp3.0\MISA.DL.dll
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\bin\Debug\netcoreapp3.0\MISA.Entities.dll
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\bin\Debug\netcoreapp3.0\MISA.Common.pdb
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\bin\Debug\netcoreapp3.0\MISA.DL.pdb
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\bin\Debug\netcoreapp3.0\MISA.Entities.pdb
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\obj\Debug\netcoreapp3.0\MISA.BL.csprojAssemblyReference.cache
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\obj\Debug\netcoreapp3.0\MISA.BL.AssemblyInfoInputs.cache
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\obj\Debug\netcoreapp3.0\MISA.BL.AssemblyInfo.cs
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\obj\Debug\netcoreapp3.0\MISA.BL.csproj.CopyComplete
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\obj\Debug\netcoreapp3.0\MISA.BL.dll
+C:\Users\lddan\source\Workspaces\MISA.Web2019C11\MemberSourceCode\lddan\MISA.CUKCUK.DAN\MISA.CUKCUK.DAN\MISA.BL\obj\Debug\netcoreapp3.0\MISA.BL.pdb

@@ -1,0 +1,179 @@
+﻿html,
+body {
+    width: 100%;
+    height: 100%;
+   
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+
+}
+/*Font*/
+/*@font-face {
+    font-family: TahomaCustom;
+    src: url('/Contents/fonts/Tahoma_Regular.eot');
+    src: url('/Contents/fonts/Tahoma_Regular.eot?#iefix') format('embedded-opentype'),url('/Contents/fonts/Tahoma_Regular.woff') format('woff'),url('/Contents/fonts/Tahoma_Regular.ttf') format('truetype'),url('/Contents/fonts/Tahoma_Regular.svg#TahomaCustom') format('svg');
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'TahomaCustom';
+    src: url('/Contents/fonts/Tahoma_Bold.eot');
+    src: url('/Contents/fonts/Tahoma_Bold.eot?#iefix') format('embedded-opentype'),url('/Contents/fonts/Tahoma_Bold.woff') format('woff'),url('/Contents/fonts/Tahoma_Bold.ttf') format('truetype'),url('/Contents/fonts/Tahoma_Bold.svg#TahomaCustom') format('svg');
+    font-weight: bold;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'TahomaCustom';
+    src: url('/Contents/fonts/Tahoma_Italic.eot');
+    src: url('/Contents/fonts/Tahoma_Italic.eot?#iefix') format('embedded-opentype'),url('/Contents/fonts/Tahoma_Italic.woff') format('woff'),url('/Contents/fonts/Tahoma_Italic.ttf') format('truetype'),url('/Contents/fonts/Tahoma_Italic.svg#TahomaCustom') format('svg');
+    font-weight: normal;
+    font-style: italic
+}
+
+* {
+    font-family: TahomaCustom !important
+}
+
+@font-face {
+    font-family: 'fontello';
+    src: url('/Contents/fonts/fontello.woff');
+    src: url('/Contents/fonts/fontello.woff#iefix') format('embedded-opentype'),url('/Contents/fonts/fontello.woff') format('woff'),url('/Contents/fonts/fontello.woff') format('truetype'),url('/Contents/fonts/fontello.woff#fontello') format('svg');
+    font-weight: normal;
+    font-style: normal
+}*/
+/**/
+.header {
+    height: 55px;
+    background-color: #0973b9;
+    position: relative;
+    display: flex;
+}
+
+.logo {
+    /* position: absolute; */
+    display: flex;
+    width: 230px;
+    height: 100%;
+}
+
+    .logo .left-logo {
+        width: 20%;
+        background: url("/Contents/images/icon-left-header.png") center no-repeat;
+    }
+
+    .logo .right-logo {
+        width: 80%;
+        background: url("/Contents/images/logo-text.png") center no-repeat;
+    }
+
+
+/*Header right*/
+
+.header .header-right {
+    position: absolute;
+    left: 230px;
+    display: flex;
+    right: 0;
+    height: 55px;
+}
+
+    .header .header-right .list-restaurant {
+        position: absolute;
+        top: 12px;
+    }
+
+    .header .header-right .utilities {
+        position: absolute;
+        right: 0;
+        display: flex;
+        top: 12px;
+    }
+
+.select {
+    width: 200px;
+    height: 35px;
+    background-color: #005082;
+    color: #fff;
+}
+
+    .select option {
+        background-color: #fff;
+        color: black;
+    }
+/*Acount box*/
+.header .header-right .utilities .child-utilities {
+    margin-right: 50px;
+}
+
+.header .header-right .utilities .notification {
+    margin-top: 5px;
+}
+
+.header .header-right .utilities .messenger {
+    margin-top: 5px;
+}
+
+.header .header-right .utilities .user-state {
+    margin-right: 10px;
+    position: relative;
+    display: flex;
+    align-self: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.header .account-action-box {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #ccc;
+    z-index: 999;
+    top: 100%;
+    right: 0;
+}
+
+    .header .account-action-box .account-action-item {
+        padding: 8px;
+    }
+
+        .header .account-action-box .account-action-item:hover {
+            background-color: #d8e6f6;
+            cursor: pointer;
+        }
+
+.pass, .logout {
+    margin-right: 3px;
+}
+
+
+/* Content */
+
+.content {
+    position: absolute;
+    top: 55px;
+    right: 0;
+    left: 230px;
+    bottom: 0;
+    
+}
+/*Cách sử dụng font có sẵn chèn vào*/
+/*@font-face {
+    
+    font-family: 'Tahoma_Bold';
+    src: url('/Contents/fonts/Tahoma_Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Tahoma_Regular';
+    src: url('/Contents/fonts/Tahoma_Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}*/
+

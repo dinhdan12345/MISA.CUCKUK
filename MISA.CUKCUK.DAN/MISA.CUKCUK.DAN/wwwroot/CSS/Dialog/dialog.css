@@ -1,0 +1,180 @@
+﻿/*Chỉnh các thuộc tính của các class mặc định của jquery*/
+.ui-dialog {
+    padding: 0 !important;
+}
+
+.ui-widget.ui-widget-content {
+    border: 5px solid #3892d3;
+    background: #fff;
+}
+
+.ui-widget-header {
+    border: none;
+    border-radius: 0px;
+    color: #fff;
+    font-weight: bold;
+    background: #3892d3;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+    padding: 0px 4px 2px;
+    height: 20px;
+}
+
+.ui-dialog .ui-dialog-content {
+    padding: 8px;
+    overflow:unset;
+    width:100% !important;
+}
+
+.ui-dialog .ui-dialog-titlebar-close {
+    border-radius: 100%;
+    background-color: #fff;
+    outline: none;
+}
+
+.ui-button .ui-icon {
+    border-radius: 100%;
+    background-color: #fff;
+    /*content: "x";*/
+}
+.ui-widget-overlay.ui-front
+{
+    background-color:#2b2a2a;
+    opacity:0.5;
+}
+/*.ui-dialog .ui-dialog-titlebar-close {
+    top: 9px;
+    right: 0;
+}*/
+/*CSS Dialog*/
+.form-dialog .dialog-main .text-note {
+    align-self: center;
+}
+
+.form-dialog input, .form-dialog textarea {
+    width: 100%;
+}
+
+.form-dialog .dialog-main .div-one, .form-dialog .dialog-main .div-two, .form-dialog .dialog-main .div-four {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+    .form-dialog .dialog-main .div-one .row-dialog {
+        display: grid;
+        grid-template-columns: 139px calc(100% - 146px);
+    }
+
+
+/*#row{
+    position:relative;
+}
+    #row div #item-birthday {
+        position: absolute;
+        background: url('/Contents/images/form/date-trigger.png') no-repeat 114px 0px;
+    }*/
+    .form-dialog .dialog-main .div-two .row-dialog {
+        display: grid;
+        grid-template-columns: 139px calc(100% - 146px);
+    }
+
+.form-dialog .dialog-main .div-three .row-dialog {
+    display: grid;
+    grid-template-columns: 139px calc(100% - 146px);
+}
+
+.form-dialog .dialog-main .div-four .row-dialog {
+    display: grid;
+    grid-template-columns: 139px calc(100% - 146px);
+}
+
+.form-dialog .dialog-main .div-five .row-dialog {
+    display: grid;
+    grid-template-columns: 139px calc(100% - 146px);
+}
+
+.form-dialog .dialog-main .div-six .row-dialog {
+    display: grid;
+    grid-template-columns: 139px calc(100% - 146px);
+}
+/*Căn chỉnh margin*/
+.form-dialog .dialog-main .div-one, .div-two, .div-three, .div-four, .div-five, .div-six {
+    margin-bottom: 3px;
+}
+/*Button dialog*/
+.button-dialog{
+    margin-bottom:30px;
+}
+.button-dialog .icon-dialog {
+    width: 20px;
+    height: 20px;
+}
+.button-dialog .button-right .icon-btn-save {
+    background: url('/Contents/images/Save16.png') center no-repeat;
+}
+.button-dialog .button-right .btn-dialog .icon-btn-save-add {
+    background: url('/Contents/images/SaveAdd16.png') center no-repeat;
+}
+.button-dialog .button-right .btn-dialog .icon-btn-cancel {
+    background: url('/Contents/images/Disable16.png') center no-repeat;
+}
+.button-dialog .button-left .btn-dialog .icon-btn-help {
+    background: url('/Contents/images/iconHelp.png') center no-repeat;
+}
+    .button-dialog .button-right {
+        display: flex;
+        float: right;
+        margin-right: 6px;
+    }
+    .button-dialog .button-left{
+        float:left;
+    }
+    .button-dialog .button-right .btn-dialog, .button-dialog .button-left .btn-dialog {
+        display: flex;
+    }
+
+
+    /*Border-red*/
+.border-red {
+    outline-color: #e80e0e;
+    outline-style: solid;
+    outline-width: thin;
+    border: 1px;
+    background: url('/Contents/images/exclamation.png') no-repeat 100%;
+}
+.border-red-button {
+    outline-color: #187fc2;
+    outline-width: thin;
+}
+.form-dialog .dialog-main input{
+    margin-bottom:2px;
+    height:24px;
+}
+.form-dialog .dialog-main textarea {
+    height: 50px;
+}
+.ui-datepicker-year, .ui-datepicker-month {
+    background-color: black;
+}
+/*Background examination*/
+/*Dialog Delete*/
+.dialog-delete .content-dialog-delete {
+    display: flex;
+}
+    .dialog-delete .content-dialog-delete .icon-question {
+        background: url(/Contents/images/iconHelp.png) center no-repeat;
+        height:24px;
+        width:24px;
+        margin-right:12px;
+    }
+.dialog-delete .btn-dialog-delete{
+    float:right;
+}
+    .dialog-delete .btn-dialog-delete .btn-ok, .dialog-delete .btn-dialog-delete .btn-cancel{
+        width:75px;
+        height:25px;
+        margin-bottom:5px;
+    }
+
+  /*Stack*/

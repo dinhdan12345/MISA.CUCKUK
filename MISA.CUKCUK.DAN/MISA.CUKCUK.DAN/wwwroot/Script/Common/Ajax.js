@@ -1,0 +1,5 @@
+﻿class Ajax {
+    static GetAjax() {
+
+    }
+}
